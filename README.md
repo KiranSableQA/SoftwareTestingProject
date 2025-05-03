@@ -25,15 +25,11 @@ This repository serves as a resource for:
 - Project Managers
 - Stakeholders
 
-markdown
-Copy
-Edit
-
 ## 📝 Test Plan
 
 The **Test Plan** outlines the testing strategy, scope, objectives, resources, schedule, and deliverables.
 
-📄 **Location:** `/Test_Plan/TestPlan_Document.pdf`
+📄 **Location:** `TestPlan_Document.pdf`
 
 Contents of the Test Plan:
 - Scope of Testing
