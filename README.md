@@ -96,7 +96,8 @@ Push to the branch (git push origin feature-branch)
 
 Open a Pull Request
 
-Kiran Sable
-Kiransable@outlook.in
-9823533500
-LinkedIn:- https://www.linkedin.com/in/kiran-sable-7a25b2302/
+📞 Contact
+For queries, suggestions, or collaborations:
+**Kiran Sable**
+📧 Kiransable@outlook.in
+🔗 LinkedIn:- https://www.linkedin.com/in/kiran-sable-7a25b2302/
